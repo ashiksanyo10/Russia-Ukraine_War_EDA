@@ -8,8 +8,8 @@ Link to NoteBook https://www.kaggle.com/ashiksanyo/russia-ukraine-war-eda
 
 Attachment for reference:
 
-![image](https://user-images.githubusercontent.com/66254994/183673431-85cf4c93-25a0-47af-b820-f08e792fd1df.png)
+![image](https://user-images.githubusercontent.com/66254994/183673989-db07d6b4-b3c3-4a03-b5db-1218d6fcd3e2.png)
 -------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/66254994/183673652-38afcbf0-51d4-41cb-aa6e-e1670cf968f3.png)
+![image](https://user-images.githubusercontent.com/66254994/183674170-2ebdbc51-f23e-4fa7-b493-8654c530274b.png)
 -------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/66254994/183673729-1c2ac52e-3016-4f19-9307-7c6a78680691.png)
+![image](https://user-images.githubusercontent.com/66254994/183674249-d769144e-3565-4eeb-b407-52a3a58a74cb.png)
